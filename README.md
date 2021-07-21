@@ -1,2 +1,2 @@
-# OlaMundo
- Repositorio de teste
+# Olá, Mundo!
+Repositório de teste, usei para aprender Git e GitHub
